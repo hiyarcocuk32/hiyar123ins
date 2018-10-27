@@ -1,5 +1,5 @@
 ﻿const ms = require('ms');
-const ayarlar = require('bot.js/client.ayarlar');
+const ayarlar = require('../ayarlar.json');
 
 var prefix = ayarlar.prefix
 
